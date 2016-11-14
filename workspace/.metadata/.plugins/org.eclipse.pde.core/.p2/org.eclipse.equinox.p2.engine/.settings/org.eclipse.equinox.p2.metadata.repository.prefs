@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/enabled=true
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/isSystem=false
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/name=e(fx)clipse - IDE - Updatesite
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/nickname=e(fx)clipse
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/suffix=content.xml
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/uri=http\://download.eclipse.org/efxclipse/updates-released/2.4.0/site
+repositories/http\:__download.eclipse.org_efxclipse_updates-released_2.4.0_site/version=1.0.0

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+
+<project default="compile"> 
+	
+	<target name="compile" description="Plz do the compile"> 
+		
+		<echo> compilling the projects </echo>
+		<javac srcdir="HelloAnt" /> 
+			
+	
+			</target>
+	
+	</project>
+
